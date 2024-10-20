@@ -1,0 +1,11 @@
+Define X
+Define Y
+Define Z
+Input
+Store X
+Input 
+Store Y
+Add X
+Output
+Jump Z
+Halt
