@@ -35,6 +35,18 @@ Jump X - Loads value of variable X into PC
 
 Define X - Defines a variable at the end of the program (more of an assembler instruction, doesnt run on runtime, only when assembled. )
 
+To assemble a program:
 
+Windows:
+python build.py [MARIE instructions] [Binary file]
 
+Linux:
+python3 build.py [MARIE instructions] [Binary file]
 
+To run the program:
+
+Windows:
+python CPU.py [Binary file]
+
+Linux:
+python3 CPU.py [Binary file]
