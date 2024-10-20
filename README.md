@@ -21,7 +21,7 @@ Input - Input a value from input device into AC
 
 Output - Outputs the value from AC
 
-Halt - Termiantes program
+Halt - Terminates program
 
 Skipcond X(Condition var) - Skips next instruction on condition. 
 
